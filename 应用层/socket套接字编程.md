@@ -9,7 +9,7 @@
 
 - 我们经常把 socket api 翻译为套接字，socket api是在应用层和传输层之间的一个抽象层，它把 TCP/IP 层复杂的操作抽象为几个简单的接口供应用层调用已实现进程在网络中通信。
 
-![流程](/images/image-3.png)
+![流程](../images/image-3.png)
 
 **Server流程**：
 - 创建一个welcomesocket，空值
@@ -24,7 +24,7 @@
 - Socket绑定服务器的ip，port
 - 发送数据，和客户端交互
 
-![流程](/images/image-4.png)
+![流程](../images/image-4.png)
 
 go语言的实现：
 

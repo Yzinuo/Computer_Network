@@ -9,7 +9,7 @@
 
 # P2P 人人为我 我为人人
 ---
-![下载速度](/images/image.png)
+![下载速度](../images/image.png)
 
 优势：
 - 下载速度明显快
@@ -47,7 +47,7 @@ peer上线后，向目录服务器发送自己的ip地址和资源列表。 因�
 每一个集群都有组员节点，和组长节点。
 组员节点之间是集中式的，组长管理。组长之间是分布式的
 
-![Alt text](/images/image1.png)
+![Alt text](../images/image1.png)
 
 ### 实际工作的P2P BT BitTorrent
 Bitmap 用来表示是否拥有资源。
